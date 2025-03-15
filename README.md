@@ -22,7 +22,11 @@ Fast React Pizza is a modern and interactive pizza menu website. It allows users
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development
 
 ## Output 📄
-[Leave this section blank for user to fill]
+![image](https://github.com/user-attachments/assets/d545ae0d-399c-4f2b-a5a6-ea239a5f855f)
+![image](https://github.com/user-attachments/assets/44005da0-6032-4d1a-968f-3f413a4025ab)
+![image](https://github.com/user-attachments/assets/3f6050f0-3de8-4354-a0b0-23f96f83c34b)
+
+
 
 ---
 
